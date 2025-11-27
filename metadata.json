@@ -1,0 +1,5 @@
+{
+  "name": "EPS GenPro - Générateur de Séances",
+  "description": "Outil professionnel pour la génération de séances d'EPS (Basket/Handball) avec fiches Word, schémas tactiques et grilles d'évaluation.",
+  "requestFramePermissions": []
+}
